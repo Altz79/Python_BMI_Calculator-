@@ -1,1 +1,1 @@
-# Python BMI Calculator Coding Challenge V6 from -fedirbaronenko-
+https://github.com/Altz79/code-20220104---fedirbaronenko-/workflows/python-app.yml/badge.svg
